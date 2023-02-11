@@ -1,0 +1,90 @@
+[
+	{
+		"productId": 1,
+		"productName": "Kurta Pyjama set",
+		"productCode": "MOB-120",
+		"description": "Regular fit, Yellow",
+		"price": 399,
+		"imageUrl": "assets/imgs/b1.jpg",
+		"manufacturer": "KRISHNA INDUSTRIES",
+		"materials": "cotton",
+		"rating": 4
+	},
+	{
+		"productId": 2,
+		"productName": "Kids Top and Pant sets",
+		"productCode": "MOB-124",
+		"description": "Regular fit, Half sleeve, Round neck",
+		"price": 309,
+		"imageUrl": "assets/imgs/b2.jpg",
+		"manufacturer": "Toonyport",
+		"materials": "cotton",
+		"rating": 4
+	},
+	{
+		"productId": 3,
+		"productName": "Casual Shirts",
+		"productCode": "MOB-125",
+		"description": "Regular fit, Sky Blue & Navy Blue",
+		"price": 800,
+		"imageUrl": "assets/imgs/b3.jpg",
+		"manufacturer": "Zombom Store",
+		"materials": "polyester",
+		"rating": 4.3
+	},
+	{
+		"productId": 4,
+		"productName": "Men Casual Shirt",
+		"productCode": "MOB-126",
+		"description": "Slim fit, Maroon",
+		"price": 850,
+		"imageUrl": "assets/imgs/b4.jpg",
+		"manufacturer": "Toonyport",
+		"materials": "cotton",
+		"rating": 4.2
+	},
+	{
+		"productId": 5,
+		"productName": "Mens Kurta",
+		"productCode": "MOB-127",
+		"description": "Regular fit, Machine wash, Navy",
+		"price": 900,
+		"imageUrl": "assets/imgs/b6.jpg",
+		"manufacturer": "Zombom Store",
+		"materials": "cotton",
+		"rating": 4.3
+	},
+	{
+		"productId": 6,
+		"productName": "Cotton Shirts",
+		"productCode": "MOB-128",
+		"description": "full sleeve, light green",
+		"price": 700,
+		"imageUrl": "assets/imgs/dress5.jpg",
+		"manufacturer": "KRISHNA INDUSTRIES",
+		"materials": "cotton",
+		"rating": 4
+	},
+	{
+		"productId": 7,
+		"productName": "Party Blazer",
+		"productCode": "MOB-129",
+		"description": "Slim fit, Dry clean only, Dark Navy",
+		"price": 1890,
+		"imageUrl": "assets/imgs/b7.jpg",
+		"manufacturer": "MENJESTIC",
+		"materials": "Fabric",
+		"rating": 3.5
+	},
+	{
+		"productId": 8,
+		"productName": "Men's Casual Shirt",
+		"productCode": "MOB-130",
+		"description": "Regular fit, Machine wash, Grey",
+		"price": 500,
+		"imageUrl": "assets/imgs/b8.jpg",
+		"manufacturer": "Zombom Store",
+		"materials": "Fabric",
+		"rating": 4.5
+	}
+]

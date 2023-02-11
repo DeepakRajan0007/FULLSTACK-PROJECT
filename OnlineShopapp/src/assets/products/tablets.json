@@ -1,0 +1,46 @@
+[
+	{
+		"productId": 1,
+		"productName": "Pattu Lehenga",
+		"productCode": "TAB-120",
+		"description": "Banarasi silk Jacquard",
+		"price":1664,
+		"imageUrl": "assets/imgs/d1.jpg",
+		"manufacturer": "JCFashionIndia",
+		"materials": "Silk",
+		"rating": 4
+	},
+	{
+		"productId": 2,
+		"productName": "Applique Floral Gown",
+		"productCode": "TAB-124",
+		"description": "Sleeveless, Maxi, Floral",
+		"price": 600,
+		"imageUrl": "assets/imgs/d2.jpg",
+		"manufacturer": "alamy",
+		"materials": "Polyester",
+		"rating": 3
+	},
+	{
+		"productId": 3,
+		"productName": "Party wear dress",
+		"productCode": "TAB-125",
+		"description": "Western dress,fine Blackberry",
+		"price": 550,
+		"imageUrl": "assets/imgs/d3.jpg",
+		"manufacturer": "alamy",
+		"materials": "Silk",
+		"rating": 4
+	},
+	{
+		"productId": 4,
+		"productName": "Gown with Koti",
+		"productCode": "TAB-126",
+		"description": "Sleeveless, Sky blue",
+		"price": 1899,
+		"imageUrl": "assets/imgs/d4.jpg",
+		"manufacturer": "JCFashionIndia",
+		"materials": "Silk",
+		"rating": 3
+	}
+]
